@@ -23,9 +23,9 @@ Kami adalah tim yang terdiri dari individu-individu berbakat dari berbagai disip
 
 ## 📬 Hubungi Kami
 
-- 🌐 Website: [https://yourdomain.com](https://upylon.com)
+- 🌐 Website: [https://upylon.com](https://upylon.com)
 - 📧 Email: upylon.dev@gmail.com
-- 📱 LinkedIn: [Nama Organisasi](https://linkedin.com/)
+- 📱 LinkedIn: [Upylon Dev](https://linkedin.com/)
 
 ## 📄 Lisensi
 
