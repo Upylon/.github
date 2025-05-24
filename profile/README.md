@@ -1,5 +1,10 @@
 ## 🔥 "Dare to think. Dare to build. Together, we shape what one alone never could."
 
+> *Every mind in this team is a spark.*  
+> *Alone, we are ideas.*  
+> *Together, we are invention.*  
+> *We challenge, we create, and we grow — united by vision, driven by reason.*
+
 Selamat datang di GitHub resmi Upylon Dev!  
 Kami adalah Perusahaan IT yang bergerak di bidang IT Consultant and Software Development. Di sini kami berbagi proyek open-source, riset, dan inovasi yang kami bangun bersama tim hebat kami.
 
