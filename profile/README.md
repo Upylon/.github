@@ -15,8 +15,8 @@ Kami menyambut siapa pun yang ingin ikut berkontribusi!
 
 Kami adalah tim yang terdiri dari individu-individu berbakat dari berbagai disiplin teknologi. Berikut adalah para anggota kami:
 
-| | | | |
-|--|--|--|--|
+| | | | ||
+|--|--|--|--|--|
 | <img src="https://github.com/semafie.png" width="100" height="100" style="border-radius: 50%" /> | <img src="https://github.com/hakimlutfi46.png" width="100" height="100" style="border-radius: 50%" /> | <img src="https://github.com/farhanariyanto03.png" width="100" height="100" style="border-radius: 50%" /> | <img src="https://github.com/ncflsy.png" width="100" height="100" style="border-radius: 50%" /> | <img src="https://github.com/adzazarif.png" width="100" height="100" style="border-radius: 50%" /> |
 | **semafie** <br> 💻 Backend Developer | **hakimlutfi46** <br> 🎨 UI/UX Designer | **farhanariyanto03** <br> 📱 Mobile Developer | **ncflsy** <br> 🤖 AI Engineer | **adzazarif** <br> 🤖 AI Engineer |
 | [@semafie](https://github.com/semafie) | [@hakimlutfi46](https://github.com/hakimlutfi46) | [@farhanariyanto03](https://github.com/farhanariyanto03) | [@ncflsy](https://github.com/ncflsy) | [@adzazarif](https://github.com/adzazarif) |
