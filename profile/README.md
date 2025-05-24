@@ -1,4 +1,4 @@
-## Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!
+## 🔥 "Dare to think. Dare to build. Together, we shape what one alone never could."
 
 Selamat datang di GitHub resmi Upylon Dev!  
 Kami adalah Perusahaan IT yang bergerak di bidang IT Consultant and Software Development. Di sini kami berbagi proyek open-source, riset, dan inovasi yang kami bangun bersama tim hebat kami.
