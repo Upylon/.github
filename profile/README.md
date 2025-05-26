@@ -21,7 +21,7 @@ Kami adalah Perusahaan IT yang bergerak di bidang IT Consultant and Software Dev
 
 - 🌐 Website: [https://upylon.com](https://upylon.com)
 - 📧 Email: upylon.dev@gmail.com
-- 📱 LinkedIn: [Upylon]([https://linkedin.com/](https://www.linkedin.com/company/upylon/posts/?feedView=all))
+- 📱 LinkedIn: [Upylon]([https://linkedin.com/](https://www.linkedin.com/company/upylon/posts/?feedView=all)
 
 ## 📄 Lisensi
 
