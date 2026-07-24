@@ -26,7 +26,7 @@ Kami adalah Perusahaan IT yang bergerak di bidang IT Consultant and Software Dev
 | [@irsyadulibad](https://github.com/irsyadulibad) | [@anggajulian14](https://github.com/anggajulian14) | [@fadiaskeyn](https://github.com/fadiaskeyn) | [@LailaWulandarii](https://github.com/LailaWulandarii) |
 
 - 🌐 Website: [https://upylon.com](https://upylon.com)
-- 📧 Email: upylon.dev@gmail.com
+- 📧 Email: contact@upylon.com
 - 📱 LinkedIn: [Upylon](https://www.linkedin.com/company/upylon/posts/?feedView=all)
 
 ## 📄 Lisensi
